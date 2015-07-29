@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackManager" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAgEAAAAAQBAogAIABAAABAAIAAAAIAAAAEAAEEQAA=</HashCode>
+      <FileName>AttackManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicAIModule" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAMAEBAAQUAEAQMJAwCARCAQAAAABIAAAABAUABAEA=</HashCode>
+      <FileName>source\basicaimodule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnhancedUI" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAABAAAAACAAAAAAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\enhancedui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkerManager" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FgCUMAADAACAAoAAACwYAABCQACEAKMAAEAEA0AEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\workermanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heap&lt;_Tp, _Val&gt;" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAEAAAIAAAIAAAAAYQIQIgCAAAAEAAAAAAYAAgAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 Projects\BWSAL_Debug_Protoss\include\Heap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEAgBAAAhAAABIAQAAgBAEACBAIACAjAAAIBAAQIA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\basemanager\base.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseManager" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAQIZADkAFAAQAAEAIAQAIBAAARIAEIAAESAQ=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\basemanager\basemanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorderManager" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAEAIAAABAAAAABAAEAABAASAAQIAChAAAQEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bordermanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildingPlacer" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCAAAQAAAAAAAAACAQAAAQAAAEAAAAAAJABAAAACAg=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\buildingplacer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildManager" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAQAgAAAAIAAEAAAAkAEAoAgKgEAQAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\buildmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildOrderManager" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KQQIEFECAYUQAEAEBgjgAUBBIAgAQBAQAIAUAwQEIhA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\buildordermanager\buildordermanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechItem" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAAAAAAAAAAEAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\buildordermanager\techitem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitItem" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAEAAAQAAAAAAAEAAAJAAQBAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\buildordermanager\unititem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionManager" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ConstructionManager::Building" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\constructionmanager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAEQgACAAAAoAQAAAACAAAAAAAQAoAEIAEAQAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\constructionmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefenseManager" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIIEAEgBAAAApAEACwAAAAABAAAAAIAAAAEABAEQAI=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\defensemanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InformationManager" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAMQAEAAgCgEAAQQAShABCAQxAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\informationmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MorphManager" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEEgAAAAAAoAAAAAAAAAAAEAAGAoCEAAEAYAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\morphmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductionManager" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEEgAIAAAAoAAAAAAAAAAAAAAQIoBEAAEAYAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\productionmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoutManager" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggQYUAAEAAAAAoEhAAgAAEAAAAAIQAIADAAMAABEAAI=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\scoutmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupplyManager" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAQAAQABQAABAAAAAQAEAEAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\supplymanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechManager" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAAAAAgABIAAAABAAAEAIQAIAAAAEAQQEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\techmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitGroup" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GpABAgCAKYEAAEJIYAWAIAQBpNIgAmkAAIABgQYAAEA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitGroupManager" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAEAAEAAAAAEAAAAAAAAAAAABBAAAAABA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroupmanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpgradeManager" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAECAAAAAEAgAAAMAAgAQAIAAAQAIAAAAEAQAkAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\upgrademanager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Util::RectangleArray&lt;Type&gt;" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQBAAFSEAAiAQATAAAAAAgAAAAQAgECQAQAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\rectanglearray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arbitrator::Arbitrator&lt;_Tp, _Val&gt;" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 Projects\BWSAL_Debug_Protoss\include\Arbitrator\Arbitrator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arbitrator::Controller&lt;_Tp, _Val&gt;" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 Projects\BWSAL_Debug_Protoss\include\Arbitrator\Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWTA::BaseLocation" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEIBAAIAgAgAAAAAAQAhABAAAAAAAABAQAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bwta\baselocation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWTA::Chokepoint" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAABAAAAAAAAAACAQAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bwta\chokepoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWTA::Polygon" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAQAAAAAAAAQAgACAAAAAAAAAAADI=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bwta\polygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWTA::RectangleArray&lt;Type&gt;" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQBAAFSEAAiAQATAAAAAAgAAAAQAgECQAQAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bwta\rectanglearray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWTA::Region" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAABAAAAAAAAAAAAAAICAAAAAAEAAIAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\bwta\region.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FilterFlag" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wGV28+G3r5b2/47LN71Nv/f0Wm28UP1ev/cP5CWvXDc=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FliterAttributeScalar" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAFAYAZAAWIGIgEQIEBAAAAAw4AIgwhUUAQMAkQAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FilterAttributeUnit" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAQAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FilterAttributeType" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAACAAAAAAAAAAAMAAAAAAAAIAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FilterAttributePosition" Collapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAUAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FilterAttributeTilePosition" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FilterAttributeOrder" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>e:\visual studio 2010 projects\bwsal_debug_protoss\include\unitgroup.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

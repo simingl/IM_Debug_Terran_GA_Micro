@@ -1,0 +1,22 @@
+Source
+There is a guide that helped in setting this up, but it was a bit outdated, so this is an updated version. The old guide can be found here: http://starcraftai.lefora.com/2009/11/20/guide-debugging-your-ai-dll/
+
+Visual C++
+Change the build type to Debug with the drop down at the top
+If you are using a commit older than revision e3d747, you will need to change the following in the project properties:
+Under 'Configuration Properties -> C/C++ -> Preprocessor', remove the value '_DEBUG' from the list of Preprocessor Definitions
+Under 'Configuration Properties -> C/C++ -> Code Generation', set the 'Runtime Library' field to 'Multi-threaded DLL /MD'
+Under 'Configuration Properties -> Linker -> Input', set the 'Additional Dependencies' field to contain the following: ../lib/BWAPI.lib ../lib/BWTA.lib ../lib/tinyxml.lib ../lib/CGAL-vc90-mt.lib ../lib/gmp-vc90-mt.lib ../lib/libboost_thread-vc90-mt-1_40.lib ../lib/mpfr-vc90-mt.lib
+From the menu, select Build -> Build Solution
+If this fails for whatever reason, make sure that you are not currently running the debugger (you will see play/pause/stop buttons). Additionally, you can try Build -> Clean Build before doing Build Solution.
+
+Chaoslauncher
+Copy the built dll from the Debug folder to the bwapi-data/AI folder
+Make sure you have your bwapi.ini file set up correctly for the ai variable
+Run Chaoslauncher as you always would. While there is an option for injecting DEBUG, it does not seem to work, so use RELEASE.
+Start Starcraft
+Starting the Game
+Any time that Starcraft has started (not necessarily in a game), you may attach the debugger
+Go to Debug -> Attach to Process..
+Find "Starcraft.exe" (you can type "sta" to jump down the list) and click Attach
+
